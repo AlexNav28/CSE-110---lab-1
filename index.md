@@ -14,15 +14,15 @@
     6. Roller costers (Six Flags)
 
 * My daily checkpoints of the day would be:
-    - [] Go to class
-    - [] Go to the Gym
-    - [] Finish all required HW/PA
-    - [] Hangout with frends
-    - [] Cook food of the day
+    - [ ] Go to class
+    - [ ] Go to the Gym
+    - [ ] Finish all required HW/PA
+    - [ ] Hangout with frends
+    - [ ] Cook food of the day
 
 ## git 
 
-'git' sometimes is problematic 
+'git commit' sometimes is problematic 
 
 ## Favorite song
 
