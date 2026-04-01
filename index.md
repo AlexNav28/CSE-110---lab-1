@@ -22,7 +22,7 @@
 
 ## git 
 
-'git commit' sometimes is problematic 
+`git commit` sometimes is problematic 
 
 ## Favorite song
 
